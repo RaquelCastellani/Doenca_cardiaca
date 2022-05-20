@@ -1,5 +1,5 @@
 <span align="center">
-<h1> 🫀: Doença cardiaca! 🫀: </h1>
+<h1> 🫀 Doença cardiaca! 🫀 </h1>
 </span>
 
 <p align="center">Modelo preditivo de doença cardíaca</p>
